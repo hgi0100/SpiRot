@@ -1,0 +1,2 @@
+# SpiRot
+Spiralling Rotor Project
